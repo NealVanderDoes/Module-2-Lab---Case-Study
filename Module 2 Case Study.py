@@ -3,6 +3,7 @@ Title: Module 2 Case Study.py
 Author: Neal Vander Does
 Date: 10/31/2024
 Class: SDEV220-50P-IO-202420-I-82X
+GitHub Link: https://github.com/NealVanderDoes/Module-2-Lab---Case-Study
 Description: 
     Program to take in a students first name & last name & GPA then decide whether they made the Dean's List or Honor Roll based on their GPA.
 
